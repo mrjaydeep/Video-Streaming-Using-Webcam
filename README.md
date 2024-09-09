@@ -13,6 +13,9 @@ Simple web interface to view the live video feed.
 
 ##
 Technologies Used:
+#
 Flask: Python micro web framework for creating the web server.
+#
 OpenCV: Computer vision library used to capture video and process frames.
+#
 HTML: Used for the frontend interface (index1.html).
