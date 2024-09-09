@@ -1,8 +1,9 @@
-##Video-Streaming-Using-Webcam
+## Video-Streaming-Using-Webcam
 
--Real-Time Video Streaming with Flask and OpenCV
--This project demonstrates how to capture real-time video from your system’s camera using OpenCV and stream it to a web page using Flask. 
--It leverages the power of Flask's lightweight framework to build a web application that serves a live video stream over the network.
+- **Real-Time Video Streaming with Flask and OpenCV**
+- This project demonstrates how to capture real-time video from your system’s camera using OpenCV and stream it to a web page using Flask.
+- It leverages the power of Flask's lightweight framework to build a web application that serves a live video stream over the network.
+
 
 ## Key Features
 - Captures real-time video using OpenCV (`cv2.VideoCapture()`).
